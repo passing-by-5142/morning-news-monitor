@@ -65,6 +65,36 @@ YNA_SESSION = requests.Session()
 YNA_SESSION.mount("https://ars.yna.co.kr", LegacyRenegotiationAdapter())
 
 
+def get_with_retries(
+    url: str,
+    *,
+    session: requests.Session | None = None,
+    params: dict | None = None,
+    headers: dict | None = None,
+    timeout: tuple[int, int] = (10, 30),
+    attempts: int = 3,
+    label: str = "request",
+) -> requests.Response:
+    client = session or requests
+    last_error: Exception | None = None
+    for attempt in range(1, attempts + 1):
+        try:
+            response = client.get(url, params=params, headers=headers, timeout=timeout)
+            response.raise_for_status()
+            return response
+        except requests.RequestException as exc:
+            last_error = exc
+            if attempt < attempts:
+                sleep_seconds = 2 * attempt
+                print(f"WARNING: {label} failed on attempt {attempt}/{attempts}: {exc}. Retrying in {sleep_seconds}s.")
+                time.sleep(sleep_seconds)
+            else:
+                print(f"WARNING: {label} failed after {attempts} attempts: {exc}. Skipping.")
+    if last_error:
+        raise last_error
+    raise RuntimeError(f"{label} failed without an exception.")
+
+
 @dataclass(frozen=True)
 class Media:
     name: str
@@ -283,8 +313,14 @@ def fetch_naver_paper(media: Media, paper_date: datetime) -> list[dict]:
             "page": str(page),
         }
         url = f"{NAVER_BASE}/main/list.naver?{urlencode(params)}"
-        response = requests.get(url, headers=HTTP_HEADERS, timeout=30)
-        response.raise_for_status()
+        try:
+            response = get_with_retries(
+                url,
+                headers=HTTP_HEADERS,
+                label=f"naver_paper:{media.name}:page{page}",
+            )
+        except requests.RequestException:
+            break
         response.encoding = response.apparent_encoding or "euc-kr"
         soup = BeautifulSoup(response.text, "html.parser")
 
@@ -345,9 +381,17 @@ def fetch_news1(keyword: str, start_dt: datetime, end_dt: datetime, max_pages: i
             "exceptquery": "",
             "author": "",
         }
-        response = requests.get(NEWS1_API, params=params, headers=HTTP_HEADERS, timeout=30)
-        response.raise_for_status()
-        data = response.json().get("items", {}).get("data", [])
+        try:
+            response = get_with_retries(
+                NEWS1_API,
+                params=params,
+                headers=HTTP_HEADERS,
+                label=f"news1:{keyword}:page{page}",
+            )
+            data = response.json().get("items", {}).get("data", [])
+        except (requests.RequestException, ValueError) as exc:
+            print(f"WARNING: news1:{keyword}:page{page} skipped: {exc}")
+            break
         if not data:
             break
         oldest_seen: datetime | None = None
@@ -387,9 +431,18 @@ def fetch_yna(keyword: str, start_dt: datetime, end_dt: datetime, max_pages: int
             "div_code": "all",
             "cattr": "",
         }
-        response = YNA_SESSION.get(YNA_API, params=params, headers=HTTP_HEADERS, timeout=30)
-        response.raise_for_status()
-        data = response.json().get("YIB_KR_A", {}).get("result", [])
+        try:
+            response = get_with_retries(
+                YNA_API,
+                session=YNA_SESSION,
+                params=params,
+                headers=HTTP_HEADERS,
+                label=f"yna:{keyword}:page{page}",
+            )
+            data = response.json().get("YIB_KR_A", {}).get("result", [])
+        except (requests.RequestException, ValueError) as exc:
+            print(f"WARNING: yna:{keyword}:page{page} skipped: {exc}")
+            break
         if not data:
             break
         oldest_seen: datetime | None = None

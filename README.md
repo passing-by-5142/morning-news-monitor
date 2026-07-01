@@ -91,6 +91,8 @@ GitHub 저장소의 `Settings > Secrets and variables > Actions > New repository
 | `lookback_end_time` | 조회 종료시각 |
 | `telegram_enabled` | `TRUE`면 텔레그램 발송 |
 
+월요일 실행 때는 뉴스1·연합뉴스만 자동으로 조회 시작일을 3일 전으로 넓힙니다. 예를 들어 기본 설정이 전날 08:00~당일 08:00이면, 월요일 뉴스1·연합뉴스는 금요일 08:00~월요일 08:00까지 검색해 주말 사이 나온 기사를 함께 커버합니다. 네이버 신문게재기사는 기존처럼 해당 날짜 지면 기준으로 수집합니다.
+
 ## 보고서 형식
 
 ```text

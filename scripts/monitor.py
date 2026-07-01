@@ -286,6 +286,14 @@ def compute_window(schedule: Schedule, now: datetime) -> tuple[datetime, datetim
     return start, end
 
 
+def compute_source_window(schedule: Schedule, now: datetime, source_type: str) -> tuple[datetime, datetime]:
+    start, end = compute_window(schedule, now)
+    if source_type in {"news1_api", "yna_api"} and weekday_key(now) == "MON":
+        start_date = now.date() - timedelta(days=3)
+        start = datetime.combine(start_date, schedule.lookback_start_time, tzinfo=now.tzinfo)
+    return start, end
+
+
 def parse_korean_datetime(value: str, default_year: int) -> datetime | None:
     text = normalize_text(value)
     match = re.search(r"(\d{4})\.(\d{2})\.(\d{2})\.\s*(오전|오후)\s*(\d{1,2}):(\d{2})", text)
@@ -488,12 +496,12 @@ def match_keywords(article: dict, keywords: list[Keyword]) -> list[str]:
 
 
 def collect_articles(media: list[Media], keywords: list[Keyword], schedule: Schedule, now: datetime) -> tuple[list[dict], list[dict]]:
-    start_dt, end_dt = compute_window(schedule, now)
     enabled_media = [m for m in media if m.enabled]
     enabled_keywords = [k for k in keywords if k.enabled]
     raw: list[dict] = []
 
     for item in enabled_media:
+        start_dt, end_dt = compute_source_window(schedule, now, item.source_type)
         if item.source_type == "naver_paper":
             raw.extend(fetch_naver_paper(item, end_dt))
         elif item.source_type == "news1_api":
@@ -530,11 +538,14 @@ def collect_articles(media: list[Media], keywords: list[Keyword], schedule: Sche
 
 def format_report(results: list[dict], schedule: Schedule, now: datetime) -> str:
     start_dt, end_dt = compute_window(schedule, now)
+    api_start_dt, _ = compute_source_window(schedule, now, "news1_api")
     lines = [
         f"<{schedule.report_label}>",
         f"조회기간: {start_dt.strftime('%Y-%m-%d %H:%M')}~{end_dt.strftime('%Y-%m-%d %H:%M')}",
-        "",
     ]
+    if api_start_dt != start_dt:
+        lines.append(f"뉴스1·연합뉴스 조회기간: {api_start_dt.strftime('%Y-%m-%d %H:%M')}~{end_dt.strftime('%Y-%m-%d %H:%M')}")
+    lines.append("")
     if not results:
         lines.append("-조건에 맞는 기사가 없습니다.")
         return "\n".join(lines).strip() + "\n"

@@ -4,6 +4,9 @@ on:
   schedule:
     # Runs every 10 minutes from 05:00 to 10:50 KST.
     - cron: "*/10 20-23,0-1 * * 0-5"
+  repository_dispatch:
+    types:
+      - morning-news-monitor
   workflow_dispatch:
     inputs:
       force_run:
@@ -35,7 +38,7 @@ jobs:
           GOOGLE_SHEET_ID: ${{ secrets.GOOGLE_SHEET_ID }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          FORCE_RUN: ${{ github.event.inputs.force_run || 'false' }}
+          FORCE_RUN: ${{ github.event.inputs.force_run || github.event.client_payload.force_run || 'false' }}
         run: python scripts/monitor.py
 
       - name: Commit outputs

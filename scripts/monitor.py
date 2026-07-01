@@ -6,6 +6,7 @@ import html
 import json
 import os
 import re
+import ssl
 import sys
 import time
 from dataclasses import dataclass
@@ -16,7 +17,9 @@ from urllib.parse import quote, urlencode
 from zoneinfo import ZoneInfo
 
 import requests
+from requests.adapters import HTTPAdapter
 from bs4 import BeautifulSoup
+from urllib3.poolmanager import PoolManager
 
 
 BASE_DIR = Path(__file__).resolve().parents[1]
@@ -40,6 +43,26 @@ HTTP_HEADERS = {
     ),
     "Accept-Language": "ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7",
 }
+
+
+class LegacyRenegotiationAdapter(HTTPAdapter):
+    """Allow connecting to servers that still require legacy TLS renegotiation."""
+
+    def init_poolmanager(self, connections, maxsize, block=False, **pool_kwargs):
+        context = ssl.create_default_context()
+        legacy_option = getattr(ssl, "OP_LEGACY_SERVER_CONNECT", 0x4)
+        context.options |= legacy_option
+        self.poolmanager = PoolManager(
+            num_pools=connections,
+            maxsize=maxsize,
+            block=block,
+            ssl_context=context,
+            **pool_kwargs,
+        )
+
+
+YNA_SESSION = requests.Session()
+YNA_SESSION.mount("https://ars.yna.co.kr", LegacyRenegotiationAdapter())
 
 
 @dataclass(frozen=True)
@@ -364,7 +387,7 @@ def fetch_yna(keyword: str, start_dt: datetime, end_dt: datetime, max_pages: int
             "div_code": "all",
             "cattr": "",
         }
-        response = requests.get(YNA_API, params=params, headers=HTTP_HEADERS, timeout=30)
+        response = YNA_SESSION.get(YNA_API, params=params, headers=HTTP_HEADERS, timeout=30)
         response.raise_for_status()
         data = response.json().get("YIB_KR_A", {}).get("result", [])
         if not data:

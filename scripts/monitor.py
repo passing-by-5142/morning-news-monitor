@@ -514,8 +514,6 @@ def collect_articles(media: list[Media], keywords: list[Keyword], schedule: Sche
     dedup: dict[str, dict] = {}
     for article in raw:
         matched = match_keywords(article, enabled_keywords)
-        if not matched and article.get("raw_keyword"):
-            matched = [article["raw_keyword"]]
         if not matched:
             continue
         key_source = article.get("url") or article.get("title", "")

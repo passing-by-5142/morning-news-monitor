@@ -1,286 +1,287 @@
 <조간>
-조회기간: 2026-07-09 08:00~2026-07-10 08:00
+조회기간: 2026-07-12 08:00~2026-07-13 08:00
+뉴스1·연합뉴스 조회기간: 2026-07-10 08:00~2026-07-13 08:00
 
--[뉴스1] "미래에셋 품은 코빗…'만년 4위' 탈출할까"
+-[동아일보] "수술비 깎아주고 아닌척 ‘뒷광고’… 공정위, 강남 성형외과 3곳 제재"
 = 
-"https://www.news1.kr/finance/blockchain-fintech/6222758"
+"https://n.news.naver.com/mnews/article/020/0003733337"
 
--[연합뉴스] "석유화학 업계, 올해 노후설비 교체 등 안전에 3천200억 투자"
+-[한국경제] "[취재수첩] 검찰 닮아가는 공정위의 담합 사실 공표"
 = 
-"https://www.yna.co.kr/view/AKR20260709179600003"
+"https://n.news.naver.com/mnews/article/015/0005309084"
 
--[연합뉴스] "산업부, 산단 지원사업 10개 선정…AX·무탄소 전환 등 추진"
+-[경향신문] "“반도체 때문에” 탈원전→감축…기후부의 ‘원전 변심’"
 = 
-"https://www.yna.co.kr/view/AKR20260709184200003"
+"https://n.news.naver.com/mnews/article/032/0003457666"
 
--[뉴스1] "산업부, 904억 규모 산단 지원 사업 대상 확정…균형 발전 총력 지원"
+-[경향신문] "[기고]공정위, ‘국고채 전문딜러 제재’ 신중히 접근해야"
 = 
-"https://www.news1.kr/economy/trend/6223600"
+"https://n.news.naver.com/mnews/article/032/0003457595"
 
--[연합뉴스] "정부, 美 '301조 공청회' 출석…"강제노동 12.5% 관세는 부당""
+-[한국경제] "현대LNG해운 매각, 산기위·공정위 심사 넘었다"
 = 
-"https://www.yna.co.kr/view/AKR20260710005000071"
+"https://n.news.naver.com/mnews/article/015/0005309016"
 
--[동아일보] "[인사]산업통상부"
+-[뉴스1] "구미시 AX 실증산단 구축사업 선정…제조 인프라에 AI 접목"
 = 
-"https://n.news.naver.com/mnews/article/020/0003732874"
+"https://www.news1.kr/local/daegu-gyeongbuk/6225332"
 
--[조선일보] "공정위, 미래에셋컨설팅의 코빗 인수 승인"
+-[연합뉴스] "후기인 척 뒷광고 한 성형외과 3곳, 공정위 제재"
 = 
-"https://n.news.naver.com/mnews/article/023/0003986780"
+"https://www.yna.co.kr/view/AKR20260710132400002"
 
--[동아일보] "공정위, 미래에셋의 코빗 인수 승인"
+-[연합뉴스] "국세청 '물가불안 조장 탈세' 114곳 적발…3천195억 추징"
 = 
-"https://n.news.naver.com/mnews/article/020/0003732845"
+"https://www.yna.co.kr/view/AKR20260711048100002"
 
--[뉴스1] "한-몽 기업·기관, 핵심광물·소비재·디지털 협력 MOU 21건 체결"
+-[뉴스1] "수술비 깎아주고 뒷광고…공정위, 뷰·에이비·디에이 성형외과 제재"
 = 
-"https://www.news1.kr/industry/general-industry/6223621"
+"https://www.news1.kr/economy/trend/6225308"
 
--[경향신문] "미래에셋 ‘코빗’ 인수 승인…‘금가분리’ 깬 공정위"
+-[뉴스1] "국립환경과학원 '온실가스 관측 위성' 이름 국민 공모"
 = 
-"https://n.news.naver.com/mnews/article/032/0003457238"
+"https://www.news1.kr/society/environment/6224869"
 
--[뉴스1] "한-몽 경제계, 협력 강화…핵심광물 공통 탐사·소비재 유통 확대 추진"
+-[연합뉴스] "정부, 중앙부처 감사인력 63명 증원 추진…감사 기능 대폭 보강"
 = 
-"https://www.news1.kr/economy/trend/6223612"
+"https://www.yna.co.kr/view/AKR20260712023500530"
 
--[연합뉴스] "한·몽골 CEPA 원칙적 타결…핵심광물·유통 협력 가속화(종합)"
+-[연합뉴스] "[게시판] 농관원 시험연구소, KOLAS 우수기관 선정돼 산업장관 표창 수상"
 = 
-"https://www.yna.co.kr/view/AKR20260709192751003"
+"https://www.yna.co.kr/view/AKR20260711047500030"
 
--[연합뉴스] "한·몽골 CEPA 원칙적 타결…핵심광물·유통협력 가속화"
+-[연합뉴스] "제조 AX 기술 국제표준으로…한국, 스마트제조 표준화위 간사국"
 = 
-"https://www.yna.co.kr/view/AKR20260709192700003"
+"https://www.yna.co.kr/view/AKR20260712012900003"
 
--[뉴스1] "한·몽 CEPA 원칙 타결…핵심광물부터 K-소비재까지 '경제동맹' 새 장"
+-[연합뉴스] "산업부·코트라, 고환율·수출통제 애로기업에 50억원 지원"
 = 
-"https://www.news1.kr/economy/idustry-trade/6223583"
+"https://www.yna.co.kr/view/AKR20260712013500003"
 
--[뉴스1] "韓, 몽골 에너지전환 돕는다…히트펌프·재생에너지 사업 본격화"
+-[뉴스1] "스마트제조 국제표준 논의, 한국이 주도…표준화 위원회 간사국 선임"
 = 
-"https://www.news1.kr/society/environment/6223491"
+"https://www.news1.kr/economy/idustry-trade/6224982"
 
--[연합뉴스] "李대통령 국빈방문 계기, 몽골과 재생에너지 개발 협력"
+-[연합뉴스] "10대 제자 상대 성범죄 저지른 60대 학원 강사, 징역 5년 선고"
 = 
-"https://www.yna.co.kr/view/AKR20260709168400530"
+"https://www.yna.co.kr/view/AKR20260710128700052"
 
--[뉴스1] "산업차관 "원자력·재생에너지로 서남권 반도체 전력 공급…LNG도 검토""
+-[연합뉴스] "AI 데이터센터 훈풍에 철강업계도 기대…실적 개선 힘 보탤까"
 = 
-"https://www.news1.kr/economy/trend/6223552"
+"https://www.yna.co.kr/view/AKR20260711022000003"
 
--[연합뉴스] "동복댐 국가 소유로 전환 추진…"반도체 용수 맞춘다""
+-[뉴스1] "미래에셋·코빗 승인 이후 쏠린 눈…남은 건 네이버·두나무"
 = 
-"https://www.yna.co.kr/view/AKR20260709186500054"
+"https://www.news1.kr/finance/blockchain-fintech/6224301"
 
--[뉴스1] "구자근 "산업부 '메가 특구 특별법' 전담과 신설은 모순 인정하는 것""
+-[연합뉴스] "韓총리, 충북 집중호우 피해현장 방문…"맞춤형 대책 마련" 당부"
 = 
-"https://www.news1.kr/local/daegu-gyeongbuk/6223542"
+"https://www.yna.co.kr/view/AKR20260711037500001"
 
--[연합뉴스] "번개친 듯 '번쩍'…까마귀가 고압선 건드려 순간 정전"
+-[뉴스1] "한성숙 국무총리, 청주 모충동 수해 현장 방문 점검"
 = 
-"https://www.yna.co.kr/view/AKR20260709184600061"
+"https://www.news1.kr/local/sejong-chungbuk/6224975"
 
--[한국경제] "공정위, 미래에셋의 코빗 인수 승인"
+-[연합뉴스] "통상당국 '정상외교 배수진' 통했다…EU 철강 쿼터 방어"
 = 
-"https://n.news.naver.com/mnews/article/015/0005308322"
+"https://www.yna.co.kr/view/AKR20260710168200003"
 
--[뉴스1] "한자연, 산업부 장관 표창 수상…車 시험·인증 공로 인정"
+-[연합뉴스] "'집토끼 잡아라'…이커머스업계, 기존 회원 '체험 혜택' 강화"
 = 
-"https://www.news1.kr/industry/auto-industry/6223505"
+"https://www.yna.co.kr/view/AKR20260710166000030"
 
--[매일경제] "공정위, 미래에셋·코빗 기업결합 승인"
+-[뉴스1] "법원 "'국가핵심기술 심의' 산업부 민간 위원 명단 공개해야""
 = 
-"https://n.news.naver.com/mnews/article/009/0005705358"
+"https://www.news1.kr/society/court-prosecution/6224745"
 
--[뉴스1] "과천시, 송전탑 철거·송전선로 지중화 추진…민선9기 1호 결제 사업"
+-[연합뉴스] "[표] 주간 거래소 외국인 순매수도 상위종목"
 = 
-"https://www.news1.kr/local/gyeonggi/6223441"
+"https://www.yna.co.kr/view/AKR20260710155500008"
 
--[뉴스1] "이승환 한강청장, 경기녹색환경지원센터 찾아 협력 방안 논의"
+-[뉴스1] "'마스가 프로젝트' 전초기지 이달 문 연다…정부·조선3사 미국행"
 = 
-"https://www.news1.kr/local/gyeonggi/6223408"
+"https://www.news1.kr/industry/general-industry/6224709"
 
--[뉴스1] "농진청, 스마트농업 국가 표준화에 앞장…'기술심의회' 신설"
+-[연합뉴스] "[연합뉴스 이 시각 헤드라인] - 18:00"
 = 
-"https://www.news1.kr/economy/agri-food/6223417"
+"https://www.yna.co.kr/view/AKR20260710143200011"
 
--[매일경제] "[인사] 문화체육관광부 / 산업통상부 / 보건복지부"
+-[연합뉴스] "한미 조선협력센터 문 연다…'마스가' 협력 속도낼까"
 = 
-"https://n.news.naver.com/mnews/article/009/0005705264"
-
--[뉴스1] "남부발전, 공공·민간 발전사와 온실가스 감축 협력 강화"
-= 
-"https://www.news1.kr/economy/trend/6223413"
-
--[머니투데이] "'코빗 인수' 공정위 승인…금융·가상자산 합종연횡 가속화"
-= 
-"https://n.news.naver.com/mnews/article/008/0005383951"
-
--[연합뉴스] "[표] 코스피 지수선물·옵션 시세표(9일)-2"
-= 
-"https://www.yna.co.kr/view/AKR20260709165800008"
-
--[연합뉴스] "[인사] 전남광주 순천시"
-= 
-"https://www.yna.co.kr/view/AKR20260709160400054"
-
--[연합뉴스] "KTL, 'AI 응용제품 상용화 사업' 선정…수도행정 지능화 착수"
-= 
-"https://www.yna.co.kr/view/AKR20260709156000052"
-
--[연합뉴스] "재산 다툼에 친형 무참히 살해한 70대, 징역 20년 선고"
-= 
-"https://www.yna.co.kr/view/AKR20260709151200052"
-
--[연합뉴스] "과천시, 문원동 송전선로 지중화 추진…2032년 준공 목표"
-= 
-"https://www.yna.co.kr/view/AKR20260709146700061"
-
--[뉴스1] "유산 문제로 친형 잔혹 살해 후 정당방위 주장 70대 '징역 20년'"
-= 
-"https://www.news1.kr/local/busan-gyeongnam/6223241"
-
--[연합뉴스] "부울경 7개 기업·기관, 2029년까지 친환경 특장차량 개발한다"
-= 
-"https://www.yna.co.kr/view/AKR20260709151100052"
-
--[연합뉴스] "진주 공공기관 유치위 "발전공기업 통합본사 진주에 유치해야""
-= 
-"https://www.yna.co.kr/view/AKR20260709145400052"
-
--[연합뉴스] "산업부, 재생에너지 자립도시 조성 속도…전력수급 모델 기획"
-= 
-"https://www.yna.co.kr/view/AKR20260709141100003"
-
--[뉴스1] "한투증권 '제1회 중견기업 CFO 협의회'…환율·재무 리스크 점검"
-= 
-"https://www.news1.kr/press/press-release/6222973"
-
--[뉴스1] "'코빗 인수' 미래에셋, 글로벌 플랫폼 '시동'…로빈후드 자리 노린다"
-= 
-"https://www.news1.kr/finance/general-stock/6222912"
-
--[뉴스1] "'금가분리' 빗장 푼 첫 사례…미래에셋, 코빗 인수가 남긴 의미"
-= 
-"https://www.news1.kr/finance/blockchain-fintech/6222724"
-
--[연합뉴스] "'메이드인 코리아' 라벨갈이…단속 100일만에 416억원 규모 적발"
-= 
-"https://www.yna.co.kr/view/AKR20260709131700002"
-
--[연합뉴스] "[인사] 뉴스핌"
-= 
-"https://www.yna.co.kr/view/AKR20260709126900505"
-
--[뉴스1] "현대차그룹, HTWO 에너지 청주 준공 …"국내 청정 수소 생태계 확대""
-= 
-"https://www.news1.kr/industry/auto-industry/6222700"
-
--[뉴스1] "서울 신대방·신림·보라매역 인근 첫 침수주의보…"도림천 수위 상승""
-= 
-"https://www.news1.kr/society/environment/6222907"
-
--[연합뉴스] "서울 도림천 인근 신대방·신림·보라매역에 첫 침수주의보 발령"
-= 
-"https://www.yna.co.kr/view/AKR20260709116800530"
-
--[뉴스1] "서남권 반도체 산단 물 부족 우려에…기후부 "최악 가뭄에도 문제없어""
-= 
-"https://www.news1.kr/economy/idustry-trade/6222878"
-
--[연합뉴스] "솔리드웍스 소프트웨어 8개 판매업체, 가격담합으로 과징금 24억"
-= 
-"https://www.yna.co.kr/view/AKR20260709071300002"
-
--[연합뉴스] "파주서 1천가구 대상 '전기·수도 통합 원격 검침' 시범사업"
-= 
-"https://www.yna.co.kr/view/AKR20260709090000530"
-
--[뉴스1] "'솔리드웍스' SW 판매시장 100% 점유한 8개사 가격 담합…과징금 23.7억"
-= 
-"https://www.news1.kr/economy/trend/6222572"
-
--[뉴스1] "전력 원격검침, 수도 검침에 함께 쓴다…파주 1000가구 실증"
-= 
-"https://www.news1.kr/society/environment/6222599"
-
--[연합뉴스] "5·18 단체 "오월정신은 포용…배재고 선처해야""
-= 
-"https://www.yna.co.kr/view/AKR20260709097100054"
-
--[뉴스1] "미래에셋, 코빗 인수 승인 완료…"글로벌 자산시장 새 표준 만든다""
-= 
-"https://www.news1.kr/finance/general-stock/6222824"
-
--[연합뉴스] "정부-전남광주특별시, 반도체 부지 조성 '실행 협의' 착수"
-= 
-"https://www.yna.co.kr/view/AKR20260709088500054"
-
--[뉴스1] "산업부, 무역안보 유공자 26명 포상…"국가 경쟁력 보호""
-= 
-"https://www.news1.kr/economy/trend/6222643"
-
--[연합뉴스] "코빗 품에 안은 미래에셋 "글로벌 자산시장 새 표준 만들 것""
-= 
-"https://www.yna.co.kr/view/AKR20260709091200008"
-
--[연합뉴스] "기술표준원, '세계 인정의 날' 기념식…유공자·단체 포상"
-= 
-"https://www.yna.co.kr/view/AKR20260709047800003"
-
--[연합뉴스] "2026 무역안보의 날 기념식…유공자 26명 포상"
-= 
-"https://www.yna.co.kr/view/AKR20260709070000003"
-
--[연합뉴스] "농진청, 스마트 농업 이끌 기술심의회 신설…표준화 등 심의"
-= 
-"https://www.yna.co.kr/view/AKR20260709078300055"
-
--[연합뉴스] "국가기술표준원·식약처, WTO에 수출 걸림돌 해소 요청"
-= 
-"https://www.yna.co.kr/view/AKR20260709075300003"
-
--[뉴스1] "국표원, '세계 인정의 날' 기념식 개최…7개 유공단체·13개 유공자 포상"
-= 
-"https://www.news1.kr/press/press-release/6222579"
-
--[뉴스1] "태안 해상풍력 시대 대비…서부발전 인력 전환 속도"
-= 
-"https://www.news1.kr/local/daejeon-chungnam/6222747"
+"https://www.yna.co.kr/view/AKR20260710150800003"
 
 -[연합뉴스] "[인사] 산업통상부"
 = 
-"https://www.yna.co.kr/view/AKR20260709081000003"
+"https://www.yna.co.kr/view/AKR20260710148700003"
 
--[연합뉴스] "산업부, 메가특구법 전담할 초광역산업협력과 신설"
+-[연합뉴스] "청주시, 'AX 실증산단 구축사업' 선정…국비 140억 확보"
 = 
-"https://www.yna.co.kr/view/AKR20260709079500003"
+"https://www.yna.co.kr/view/AKR20260710146600064"
 
--[뉴스1] "온실가스 국제감축 실적 확보 속도…한국환경공단, 기업지원 강화"
+-[연합뉴스] "여수산단 산업부산물, 에너지 전환…친환경 산단 조성"
 = 
-"https://www.news1.kr/society/environment/6222654"
+"https://www.yna.co.kr/view/AKR20260710141200054"
 
--[연합뉴스] "李대통령, 오늘 한-몽골 정상회담…비즈니스 포럼도 참석(종합)"
+-[뉴스1] "배전망 ESS 구축 사업자 9곳 중 6곳 '삼성SDI' 배터리 쓴다"
 = 
-"https://www.yna.co.kr/view/AKR20260708127551001"
+"https://www.news1.kr/industry/general-industry/6224542"
 
--[연합뉴스] "CJ대한통운, 과대포장 방지 솔루션 '팩체크' 개발…현장 도입"
+-[뉴스1] "[인사]산업통상부"
 = 
-"https://www.yna.co.kr/view/AKR20260709052100030"
+"https://www.news1.kr/economy/trend/6224563"
 
--[연합뉴스] "공정위, 미래에셋컨설팅의 코빗 지분 92.06% 매입 승인"
+-[뉴스1] "중부발전, AI 활용 ESS 구축 사업 대상자 선정…"재생에너지 확산 지원""
 = 
-"https://www.yna.co.kr/view/AKR20260709059300002"
+"https://www.news1.kr/economy/idustry-trade/6224549"
 
--[뉴스1] "공정위, 미래에셋의 코빗 인수 승인…"경쟁제한 우려 적어""
+-[연합뉴스] "법원 "국가핵심기술 지정하는 산업부 전문위원 명단 공개해야""
 = 
-"https://www.news1.kr/economy/trend/6222487"
+"https://www.yna.co.kr/view/AKR20260710131700004"
 
--[뉴스1] ""'팩체크'로 택배 과대포장 잡는다"…CJ대한통운, AI 설루션 도입"
+-[연합뉴스] "[표] 코스피 지수선물·옵션 시세표(10일)-2"
 = 
-"https://www.news1.kr/industry/sb-founded/6222460"
+"https://www.yna.co.kr/view/AKR20260710133600008"
 
--[뉴스1] ""AI시대, 기술윤리를 성찰하다"…기보·캠코, 부산서 'AI 윤리특강' 개최"
+-[연합뉴스] "마산자유무역지역·사천일반산단, 에너지 자급자족 단지 선정"
 = 
-"https://www.news1.kr/industry/sb-founded/6222384"
+"https://www.yna.co.kr/view/AKR20260710129100052"
+
+-[연합뉴스] "[인사] 충북도"
+= 
+"https://www.yna.co.kr/view/AKR20260710127900064"
+
+-[뉴스1] "청주시 산업단지 인공지능 전환 실증사업 선정"
+= 
+"https://www.news1.kr/local/sejong-chungbuk/6224464"
+
+-[연합뉴스] "경남도, 창원국가산단에 5G 특화 통신망…피지컬AI 확산 뒤받침"
+= 
+"https://www.yna.co.kr/view/AKR20260710120900052"
+
+-[뉴스1] "체육회 스포츠공정위, 14일 '배재고 징계' 재심 채택 여부 결정"
+= 
+"https://www.news1.kr/sports/baseball/6224483"
+
+-[연합뉴스] "부산, 대구, 인천 등 53개 지역 기상가뭄 '관심' 단계"
+= 
+"https://www.yna.co.kr/view/AKR20260710057200530"
+
+-[연합뉴스] "배재고 징계 재심의 일정 14일에 결정…봉황대기 출전 분수령(종합)"
+= 
+"https://www.yna.co.kr/view/AKR20260710106351007"
+
+-[뉴스1] "[인사] 기후에너지환경부"
+= 
+"https://www.news1.kr/society/general-society/6224424"
+
+-[뉴스1] "태양광 몰린 호남·제주 전력망 보강…ESS로 접속대기 해소 추진"
+= 
+"https://www.news1.kr/society/environment/6224421"
+
+-[뉴스1] "배재고 '6개월 출전정지' 징계 재심 20일…효력정지 가처분도 신청(종합)"
+= 
+"https://www.news1.kr/society/education/6224440"
+
+-[연합뉴스] "삼성SDI, 첫 'AI 배전망 ESS' 66% 수주…LG엔솔은 사업자로 선정"
+= 
+"https://www.yna.co.kr/view/AKR20260710105100003"
+
+-[뉴스1] "배터리 넘어 에너지 플랫폼으로…LG엔솔, 'AI 배전망 ESS 사업' 수주"
+= 
+"https://www.news1.kr/industry/general-industry/6224344"
+
+-[연합뉴스] "[인사] 기후에너지환경부"
+= 
+"https://www.yna.co.kr/view/AKR20260710111300530"
+
+-[연합뉴스] "배재고 징계 재심의 일정 14일에 결정…봉황대기 출전 분수령"
+= 
+"https://www.yna.co.kr/view/AKR20260710106300007"
+
+-[뉴스1] "공정위·16개 시도교육청, 교복 입찰담합 차단 협력…감시망 강화"
+= 
+"https://www.news1.kr/economy/trend/6224299"
+
+-[연합뉴스] "[게시판] 공정위, 교복 등 공공부문 입찰 담합 근절 관계기관 협의회"
+= 
+"https://www.yna.co.kr/view/AKR20260710028400002"
+
+-[뉴스1] "배재고 6개월 출전정지 재심 심의 20일 열린다"
+= 
+"https://www.news1.kr/society/education/6224314"
+
+-[연합뉴스] "에너지저장장치 설치해 1GW 재생에너지 전력망 추가 연결"
+= 
+"https://www.yna.co.kr/view/AKR20260710078700530"
+
+-[연합뉴스] "이마트, 몽골 울란바토르에 노브랜드 1호점…이달 말 2호점도"
+= 
+"https://www.yna.co.kr/view/AKR20260710079400030"
+
+-[연합뉴스] "거리로 나선 대구 홈플 상인들 "시민 생존·지역 경제 걸렸다""
+= 
+"https://www.yna.co.kr/view/AKR20260710078400053"
+
+-[뉴스1] "청도군, 자원순환 부문 '환경대상' 7년 연속 수상"
+= 
+"https://www.news1.kr/local/daegu-gyeongbuk/6224149"
+
+-[연합뉴스] "인천 남동국가산단, '문화선도산단' 선정…530억원 투입"
+= 
+"https://www.yna.co.kr/view/AKR20260710073200065"
+
+-[연합뉴스] "한국-몽골, 희소금속협력위 장관급 격상…핵심광물 협력 강화"
+= 
+"https://www.yna.co.kr/view/AKR20260710068500003"
+
+-[뉴스1] "한-몽 핵심광물 협력 강화…희소금속 협력위·센터 역할 격상"
+= 
+"https://www.news1.kr/economy/idustry-trade/6224089"
+
+-[연합뉴스] "[테크스냅] 안랩, '무역안보의 날' 산업부 장관 표창 수상"
+= 
+"https://www.yna.co.kr/view/AKR20260710051000017"
+
+-[뉴스1] "유럽산 PVC 페이스트 수지에 최대 31.55% 반덤핑관세…5년간 부과"
+= 
+"https://www.news1.kr/economy/trend/6223860"
+
+-[연합뉴스] "서부산스마트밸리 4년간 889억원 투입…청년 친화적 산업단지"
+= 
+"https://www.yna.co.kr/view/AKR20260710040800051"
+
+-[연합뉴스] "남양유업, 몽골 식품기업과 3년간 100억원 규모 수출 확대 협약"
+= 
+"https://www.yna.co.kr/view/AKR20260710041100030"
+
+-[뉴스1] "안랩, 전략물자 수출관리 공로로 산업통상부 장관 표창"
+= 
+"https://www.news1.kr/it-science/security-hacking/6223839"
+
+-[뉴스1] "기후부, 광주 반도체산단 용수 현장점검…"하루 65만톤 확보 추진""
+= 
+"https://www.news1.kr/society/general-society/6223889"
+
+-[뉴스1] "롯데케미칼, 중소 고객사 상생 지원…주요 석유화학 제품 공급가 인하"
+= 
+"https://www.news1.kr/industry/general-industry/6223895"
+
+-[연합뉴스] "롯데케미칼, 중소 고객사 대상 주요 제품 공급가 인하"
+= 
+"https://www.yna.co.kr/view/AKR20260710037100003"
+
+-[뉴스1] "기보, 하나·기업은행과 기술혁신·반도체中企 자금 조달 지원"
+= 
+"https://www.news1.kr/industry/sb-founded/6223812"
+
+-[연합뉴스] "[동정] 기후차관, 호남 찾아 반도체산단 용수 공급계획 점검"
+= 
+"https://www.yna.co.kr/view/AKR20260710027600530"
+
+-[연합뉴스] "[인사] 산업통상부"
+= 
+"https://www.yna.co.kr/view/AKR20260710027400003"
+
+-[뉴스1] "남양유업, 몽골에 100억 수출 MOU…한·몽 경제사절단 참여 성과"
+= 
+"https://www.news1.kr/industry/distribution/6223755"

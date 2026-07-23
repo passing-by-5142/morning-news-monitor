@@ -1,262 +1,254 @@
 <조간>
-조회기간: 2026-07-22 08:00~2026-07-23 08:00
+조회기간: 2026-07-23 08:00~2026-07-24 08:00
 
--[연합뉴스] "서울시복지재단-한전-네이버, 복지 사각지대 발굴 맞손"
+-[뉴스1] "14년 만에 새벽배송 문 열리나…대형마트 "의무휴업도 풀어야""
 = 
-"https://www.yna.co.kr/view/AKR20260722155600004"
+"https://www.news1.kr/industry/distribution/6236845"
 
--[뉴스1] "서울시복지재단, AI전화로 전기요금 할인 누락가구 찾는다"
+-[뉴스1] "[N% 후폭풍]⑤노동부 '쟁의기준'·산업부 '주주보호'…'하투 대란' 차단 총력전"
 = 
-"https://www.news1.kr/local/moi/6235637"
+"https://www.news1.kr/economy/trend/6236826"
 
--[연합뉴스] "하도급대금 연동제에도…수급업자 41% "몰라서 계약 반영 안 해""
+-[뉴스1] "韓 "1500억달러 마스가 이행 준비" 美 "미국내 건조 건수로 평가"(종합)"
 = 
-"https://www.yna.co.kr/view/AKR20260722138000002"
+"https://www.news1.kr/world/usa-canada/6237433"
 
--[동아일보] "訪美 김정관 “한미동맹, 쿠팡사태로 안 흔들려”"
+-[뉴스1] "산업장관 "韓, 1500억달러 마스가 이행 준비…美는 규제 제거해야""
 = 
-"https://n.news.naver.com/mnews/article/020/0003735861"
+"https://www.news1.kr/world/usa-canada/6237430"
 
--[연합뉴스] "김정관 "對美 1호 투자, 에너지 관련 논의 중…8∼9월 발표"(종합)"
+-[서울신문] "美서 닻 올린 ‘마스가 전진기지’… 한미 조선 MOU 15건 체결"
 = 
-"https://www.yna.co.kr/view/AKR20260723001051071"
+"https://n.news.naver.com/mnews/article/081/0003664210"
 
--[뉴스1] "김정관 "대미투자 1호 에너지 관련 논의중…8~9월 발표""
+-[동아일보] "“대미투자 1호는 에너지”… 김정관 “이르면 내달 발표”"
 = 
-"https://www.news1.kr/world/usa-canada/6236018"
+"https://n.news.naver.com/mnews/article/020/0003736193"
 
--[연합뉴스] "김정관 "對美 1호 투자, 에너지 관련 논의 중…8∼9월 발표""
+-[동아일보] "김정관 “美와 301조 관세 논의”… 기존 합의한 15% 유지 총력"
 = 
-"https://www.yna.co.kr/view/AKR20260723001000071"
+"https://n.news.naver.com/mnews/article/020/0003736190"
 
--[국민일보] "김정관 “한·미 동맹, 쿠팡 이슈 하나로 흔들리지 않아”"
+-[연합뉴스] "'마스가' 띄운 한미 조선협력센터…성과 의지 다지며 첫발 뗐다"
 = 
-"https://n.news.naver.com/mnews/article/005/0001862564"
+"https://www.yna.co.kr/view/AKR20260724003700071"
 
--[세계일보] "[김형배의공정과효율] 공정위 심사보고서 공개 신중해야"
+-[조선일보] "정부, 하청 직고용한 한전KPS에 일감 몰아준다"
 = 
-"https://n.news.naver.com/mnews/article/022/0004145158"
+"https://n.news.naver.com/mnews/article/023/0003989347"
 
--[국민일보] "[인사] 기후에너지환경부 外"
+-[연합뉴스] "워싱턴에 한미 조선협력센터 개소…'마스가' 속도 낸다"
 = 
-"https://n.news.naver.com/mnews/article/005/0001862546"
+"https://www.yna.co.kr/view/AKR20260723167200003"
 
--[세계일보] "[인사] 기후에너지환경부"
+-[뉴스1] "'마스가 전진기지' 한·미 조선협력센터 출범…김정관 "대미 조선 투자 속도""
 = 
-"https://n.news.naver.com/mnews/article/022/0004145122"
+"https://www.news1.kr/economy/idustry-trade/6237059"
 
--[세계일보] "투자·관세·쿠팡… 방미 김정관 ‘통상 3중고’ 해법에 촉각"
+-[뉴스1] "기후부 사무관 정치권 공방 확산…기후장관, 사망 7일 만에 입장(종합)"
 = 
-"https://n.news.naver.com/mnews/article/022/0004145094"
+"https://www.news1.kr/economy/trend/6237351"
 
--[연합뉴스] "경북북부 호우에도 운문댐 저수율 낮아져…예년 64% 수준 비"
+-[세계일보] "김정관 “대미투자 1호 에너지 관련 논의”… 이르면 8월 말 발표"
 = 
-"https://www.yna.co.kr/view/AKR20260722162600053"
+"https://n.news.naver.com/mnews/article/022/0004145408"
 
--[연합뉴스] "산업은행, 여수사업재편 지원 채권금융기관 회의…금융지원 논의"
+-[뉴스1] "부산 사하구 오피스텔 120가구 정전…2시간30분 만에 복구"
 = 
-"https://www.yna.co.kr/view/AKR20260722158800002"
+"https://www.news1.kr/local/busan-gyeongnam/6237313"
 
--[연합뉴스] "'상수원규칙 개정' 유천취수장 둘러싼 안성-평택 갈등 향방은"
+-[매일경제] "발전 5사 통합에 … 본사 유치전 불붙었다"
 = 
-"https://www.yna.co.kr/view/AKR20260722155500061"
+"https://n.news.naver.com/mnews/article/009/0005711478"
 
--[뉴스1] "산업은행, 여수 석유화학단지 사업구조 전환에 4500억 금융지원"
+-[연합뉴스] "정부, 차세대 SMR 육성 총력전…원안위 포함 TF도 추진(종합)"
 = 
-"https://www.news1.kr/finance/general-finance/6235787"
+"https://www.yna.co.kr/view/AKR20260722156151017"
 
--[한국일보] "[인사] 기후에너지환경부 외"
+-[매일경제] "訪美 김정관 "1호 대미투자는 에너지 관련 프로젝트 … 내달말 발표""
 = 
-"https://n.news.naver.com/mnews/article/469/0000943755"
+"https://n.news.naver.com/mnews/article/009/0005711434"
 
--[연합뉴스] "당정 "3대 메가프로젝트, 지방주도성장 성공의 핵심 열쇠""
+-[연합뉴스] "기후부 사무관 사망에 '업무과다·직내괴' 의혹…조직문화 도마"
 = 
-"https://www.yna.co.kr/view/AKR20260722143600001"
+"https://www.yna.co.kr/view/AKR20260723166500530"
 
--[연합뉴스] "석유화학 구조개편 '여수 1호 프로젝트' 환영…"새 출발선"(종합)"
+-[연합뉴스] "롯데케미칼 노사, 석유화학 사업재편 협력 선언"
 = 
-"https://www.yna.co.kr/view/AKR20260722120451054"
+"https://www.yna.co.kr/view/AKR20260723169900054"
 
--[매일경제] "[인사] 성평등가족부 / 기후에너지환경부"
+-[연합뉴스] "제주시, 여름철 물놀이형 수경시설 집중 점검"
 = 
-"https://n.news.naver.com/mnews/article/009/0005710829"
+"https://www.yna.co.kr/view/AKR20260723169500056"
 
--[연합뉴스] "한미 안보협의 후속 논의는 언제…전쟁·투자 등 현안 산적"
+-[뉴스1] "'보건의료 국가대표기술' 30개 뽑는다…R&D부터 사업화까지 지원"
 = 
-"https://www.yna.co.kr/view/AKR20260722139800504"
+"https://www.news1.kr/bio/welfare-medical/6237099"
 
--[연합뉴스] "정부, 용인 반도체산단 전기공급 11년 앞당긴다…2042년 완료"
+-[뉴스1] "LG엔솔, 충북대·충북도·산업부 등과 맞손…지역인재 육성"
 = 
-"https://www.yna.co.kr/view/AKR20260722145000530"
+"https://www.news1.kr/industry/general-industry/6237060"
 
--[연합뉴스] "거창군-한국남부발전, 1조5천억 규모 양수발전소 유치 협력 협약"
+-[연합뉴스] "[표] 코스피 지수선물·옵션 시세표(23일)-2"
 = 
-"https://www.yna.co.kr/view/AKR20260722143400052"
+"https://www.yna.co.kr/view/AKR20260723157300008"
 
--[연합뉴스] "[표] 코스피 지수선물·옵션 시세표(22일)-2"
+-[연합뉴스] "'5G 과장광고' SKT 168억원 과징금 취소…법원 "액수 잘못 산정""
 = 
-"https://www.yna.co.kr/view/AKR20260722142500008"
+"https://www.yna.co.kr/view/AKR20260723152900004"
 
--[뉴스1] "여수산단 석유화학 구조 개편…정치권 "환영·추가 지원 필요""
+-[뉴스1] "춘천시, 후평산단 AX 전환 'MINI 얼라이언스' 발족"
 = 
-"https://www.news1.kr/local/gwangju-jeonnam/6235604"
+"https://www.news1.kr/local/kangwon/6237064"
 
--[뉴스1] "'뿌리산업 공정고도화 사업' 대상지로 첨단·평동산단 선정"
+-[연합뉴스] "대구시, 노후산단 입주업종 규제 전면 개편…"산단 경쟁력 강화""
 = 
-"https://www.news1.kr/local/gwangju-jeonnam/6235565"
+"https://www.yna.co.kr/view/AKR20260723152300053"
 
--[연합뉴스] "[표] 거래소 기관 순매수도 상위종목(22일)"
+-[뉴스1] "법원, '5G 과장광고' SKT 과징금 168억 전액 취소…"계산 잘못""
 = 
-"https://www.yna.co.kr/view/AKR20260722131600008"
+"https://www.news1.kr/society/court-prosecution/6236979"
 
--[연합뉴스] "전남광주 북구 첨단산단·평동산단 '뿌리산업' 체질 개선"
+-[연합뉴스] "나주시, '나주형 햇빛연금 모델' 본격 추진"
 = 
-"https://www.yna.co.kr/view/AKR20260722130900054"
+"https://www.yna.co.kr/view/AKR20260723137000054"
 
--[연합뉴스] "전남대-한전, '브랜드 단과대학' 설립 추진…에너지 인재 양성"
+-[연합뉴스] "[표] 거래소 외국인 순매수도 상위종목(23일)"
 = 
-"https://www.yna.co.kr/view/AKR20260722130600054"
+"https://www.yna.co.kr/view/AKR20260723145800008"
 
--[뉴스1] "넥슨 '확률 조작' 116억 과징금 소송 결론 9월로 밀려"
+-[연합뉴스] "[표] 거래소 기관 순매수도 상위종목(23일)"
 = 
-"https://www.news1.kr/it-science/game-review/6235429"
+"https://www.yna.co.kr/view/AKR20260723145600008"
 
--[연합뉴스] "석유화학 구조개편 '여수 1호 프로젝트'에 환영·아쉬움 교차"
+-[연합뉴스] "LG에너지솔루션, 충북대 등과 배터리 지역인재 양성 협력"
 = 
-"https://www.yna.co.kr/view/AKR20260722120400054"
+"https://www.yna.co.kr/view/AKR20260723145500003"
 
--[뉴스1] "한국전력, 청렴·고객만족 앞세운 '신뢰도약 주간'으로 체질 개선"
+-[연합뉴스] "미국 301조 관세 발표 임박…정부, 종전 15% 관세율 사수 총력"
 = 
-"https://www.news1.kr/economy/idustry-trade/6235472"
+"https://www.yna.co.kr/view/AKR20260723139100003"
 
--[연합뉴스] "가맹점주 동의 안 받고 "광고비 내라"…넥스큐브코퍼레이션 제재(종합)"
+-[연합뉴스] "국방반도체 신속 국산화…무기체계 적용 의무화 등 추진(종합)"
 = 
-"https://www.yna.co.kr/view/AKR20260722051051002"
+"https://www.yna.co.kr/view/AKR20260723051551504"
 
--[뉴스1] "용인 반도체 산단 전력 11년 앞당긴다…용수도 2029년 공급 목표"
+-[뉴스1] "결국 깨진 '금가분리'…금융당국, 코인원 대주주 변경 신고 수리"
 = 
-"https://www.news1.kr/society/environment/6235151"
+"https://www.news1.kr/finance/blockchain-fintech/6236896"
 
--[연합뉴스] "폐플라스틱 소각 중소·중견 10곳에 정부가 재활용 확대안 제시"
+-[뉴스1] "전남광주특별시 '반도체 소부장 특화단지' 유치 총력…산학연 협력"
 = 
-"https://www.yna.co.kr/view/AKR20260722042900530"
+"https://www.news1.kr/local/gwangju-jeonnam/6236904"
 
--[연합뉴스] "가맹점주 동의 안 받고 "광고비 내라"…넥스큐브코퍼레이션 제재"
+-[연합뉴스] "강원도의회 "강원랜드 고객확인제도 전면 확대 재검토하라""
 = 
-"https://www.yna.co.kr/view/AKR20260722051000002"
+"https://www.yna.co.kr/view/AKR20260723125500062"
 
--[연합뉴스] "AI시대 '법원 판결문 개방'…행안부, 오픈데이터포럼과 세미나"
+-[연합뉴스] "익산시, 반도체·이차전지 투자유치 추진…제3산단 27만㎡ 공급"
 = 
-"https://www.yna.co.kr/view/AKR20260722061600530"
+"https://www.yna.co.kr/view/AKR20260723114200055"
 
--[뉴스1] "공정위, '광고비 무단 전가' 에듀플렉스·에듀코치 운영사 시정명령"
+-[연합뉴스] "무역위, 중국산 부틸 아크릴레이트에 최고 19.17% 반덤핑 관세"
 = 
-"https://www.news1.kr/economy/trend/6234987"
+"https://www.yna.co.kr/view/AKR20260723097400003"
 
--[뉴스1] "ESG 공시 앞두고 실무인력 1000명 양성…온실가스·LCA 교육 확대"
+-[뉴스1] "무역위, 중국산 부틸아크릴레이트 덤핑 판정…최대 19.17% 부과 결정"
 = 
-"https://www.news1.kr/society/environment/6235019"
+"https://www.news1.kr/economy/idustry-trade/6236497"
 
--[뉴스1] "폐플라스틱 소각 1만 4130톤 줄인다…정부, 탈플라스틱 기술진단 착수"
+-[연합뉴스] "[게시판] '2026 기후적응 국제 심포지엄' 24일 대한상의서 개최"
 = 
-"https://www.news1.kr/society/environment/6235039"
+"https://www.yna.co.kr/view/AKR20260723061900530"
 
--[연합뉴스] "[인사] 더투데이"
+-[뉴스1] "기후위기 취약계층 보호 논의…독일·일본·한국 적응정책 공유"
 = 
-"https://www.yna.co.kr/view/AKR20260722084300505"
+"https://www.news1.kr/society/environment/6236362"
 
--[연합뉴스] "김정관 "쿠팡 이슈로 한미동맹 흔들리지 않아…오해 풀릴 것""
+-[뉴스1] "동백꽃 유산균으로 탈모 완화 샴푸 개발…이달 출시"
 = 
-"https://www.yna.co.kr/view/AKR20260722078300003"
+"https://www.news1.kr/society/environment/6236443"
 
--[뉴스1] "충주시, 스마트그린산단 '피지컬 AI 생태계 조성' 착수"
+-[연합뉴스] "'주한미군 감축 견제' 강화한 NDAA 하원 통과…"조선협력 필요"(종합)"
 = 
-"https://www.news1.kr/local/sejong-chungbuk/6235180"
+"https://www.yna.co.kr/view/AKR20260723021751071"
 
--[연합뉴스] "산업부·지방정부, 권역별 성장엔진 육성계획 수립 추진"
+-[뉴스1] "한·투르크메니스탄, 디지털 물관리 협력 확대…국내 기업 진출 지원"
 = 
-"https://www.yna.co.kr/view/AKR20260722064300003"
+"https://www.news1.kr/diplomacy/defense-diplomacy/6236527"
 
--[뉴스1] "산업부, 5극 3특 성장엔진 육성계획 마련…지방정부와 실무협의회 개최"
+-[연합뉴스] "백령발전소 증설, '환경영향평가 누락'에 또 제동"
 = 
-"https://www.news1.kr/economy/idustry-trade/6235042"
+"https://www.yna.co.kr/view/AKR20260723082300065"
 
--[뉴스1] "대구시 "미래 모빌리티 전환 앞당긴다"…제조AI 245억 투입"
+-[머니투데이] ""전기요금 감면 대상자, AI로 찾아낸다"…한전, 복지 사각지대 해소"
 = 
-"https://www.news1.kr/local/daegu-gyeongbuk/6235179"
+"https://n.news.naver.com/mnews/article/008/0005389825"
 
--[뉴스1] "방미길 오른 김정관 "쿠팡 이슈로 한미동맹 흔들리지 않아"(종합)"
+-[연합뉴스] "유해물질 기준초과 어린이 수영복·비옷 등 53개 제품 리콜"
 = 
-"https://www.news1.kr/economy/idustry-trade/6235137"
+"https://www.yna.co.kr/view/AKR20260723047900003"
 
--[뉴스1] "냉난방 전기화, 폐가전 희토류 회수…기후장관, 순환경제 현장점검"
+-[연합뉴스] "산업부·금융위, 핵심광물 공급망 지원…국민성장펀드 활용 논의"
 = 
-"https://www.news1.kr/society/environment/6234983"
+"https://www.yna.co.kr/view/AKR20260723075000003"
 
--[연합뉴스] "대구시, 제조 AI 키운다…2029년까지 245억원 투자"
+-[뉴스1] "산업부-금융위, 국민성장펀드로 핵심광물 공급망 지원 검토"
 = 
-"https://www.yna.co.kr/view/AKR20260722057100053"
+"https://www.news1.kr/economy/trend/6236279"
 
--[뉴스1] "아파트 정전에 엘리베이터 3대 멈춰…주민 6명 40분 만에 구조"
+-[뉴스1] "국표원, 어린이 래쉬가드·우비 등 53개 제품 리콜 명령"
 = 
-"https://www.news1.kr/local/jeonbuk/6235040"
+"https://www.news1.kr/economy/trend/6236313"
 
--[연합뉴스] "2분기 다단계 업체 총 119개사…신규 등록 6곳, 폐업 3곳"
+-[연합뉴스] "의정부시, 중랑천변 불법 경작지에 친수공간 조성"
 = 
-"https://www.yna.co.kr/view/AKR20260722036900002"
+"https://www.yna.co.kr/view/AKR20260723071500060"
 
--[연합뉴스] "산업장관, 대미투자 협의차 미국 방문…쿠팡사태도 논의할 듯"
+-[뉴스1] "중앙亞 5개국과 물산업 협력…국내 기업 진출 지원"
 = 
-"https://www.yna.co.kr/view/AKR20260722033400003"
+"https://www.news1.kr/society/environment/6236448"
 
--[뉴스1] "다단계업체 119개로 늘어…2분기 폐업 3곳·신규 6곳"
+-[뉴스1] "전기 만들어도 갈 데가 없다…올해만 316번 멈춰 선 발전소"
 = 
-"https://www.news1.kr/economy/trend/6234919"
+"https://www.news1.kr/society/environment/6236255"
 
--[뉴스1] "대미 투자 확정, '쿠팡 오해' 불식 특명…김정관 장관, 오늘 미국行"
+-[연합뉴스] "투르크메니스탄과 물 분야 협력 강화…정부 대표단 초청"
 = 
-"https://www.news1.kr/economy/trend/6234584"
+"https://www.yna.co.kr/view/AKR20260723055800530"
 
--[뉴스1] "[부고] 김정한 씨(변리사) 부친상"
+-[연합뉴스] "지주회사 CVC, 총수 출자 회사에 편법 투자 못 한다"
 = 
-"https://www.news1.kr/society/general-society/6235022"
+"https://www.yna.co.kr/view/AKR20260723048700002"
 
--[뉴스1] "[인사] 기후에너지환경부"
+-[연합뉴스] "국방반도체 신속 국산화…무기체계 적용 의무화 등 추진"
 = 
-"https://www.news1.kr/society/general-society/6234992"
+"https://www.yna.co.kr/view/AKR20260723051500504"
 
--[연합뉴스] "[인사] 기후에너지환경부"
+-[뉴스1] "공정위, 총수 친족 사각지대 차단…CVC 외부펀드 우회투자도 막는다"
 = 
-"https://www.yna.co.kr/view/AKR20260722049100530"
+"https://www.news1.kr/economy/trend/6236289"
 
--[뉴스1] "연천서 폭우로 나무 쓰러지며 정전…340가구 1시간 넘게 불편"
+-[뉴스1] "정부, 국방반도체 신속 개발·인재양성 촉진…무기 적용 의무화한다"
 = 
-"https://www.news1.kr/local/gyeonggi/6234989"
+"https://www.news1.kr/diplomacy/defense-diplomacy/6236218"
 
--[연합뉴스] "경기도, 국내 최초 '공유형 에너지저장장치' 규제 특례 승인"
+-[뉴스1] "기후부 30대 사무관 사망…노조, 직장 내 괴롭힘 의혹 조사 촉구"
 = 
-"https://www.yna.co.kr/view/AKR20260722045100060"
+"https://www.news1.kr/society/general-society/6236330"
 
--[뉴스1] "석유화학업계 "정부, 여수산단 2호 사업재편 신속 승인 적극 환영""
+-[뉴스1] "국민연금·한전, 전기 사용량 통해 복지 사각지대 발굴에 '맞손'"
 = 
-"https://www.news1.kr/industry/general-industry/6234965"
+"https://www.news1.kr/bio/welfare-medical/6236356"
 
--[연합뉴스] "여천NCC, 여수 2·3공장 가동 중단…1공장은 롯데케미칼과 통합"
+-[연합뉴스] "서산 예천·읍내·석림동 상수도 2031년까지 현대화"
 = 
-"https://www.yna.co.kr/view/AKR20260722035100003"
+"https://www.yna.co.kr/view/AKR20260723044300063"
 
--[뉴스1] "대산 이어 여수도 사업재편…정부, 7천억 지원으로 석화 구조개편 속도"
+-[연합뉴스] "대신증권 "한전KPS, 美시장 진출 모멘텀 지연…목표가↓""
 = 
-"https://www.news1.kr/industry/general-industry/6234784"
+"https://www.yna.co.kr/view/AKR20260723030100008"
 
--[뉴스1] "'무역법 301조' 관세 임박…靑 "산업부 장관 방미, 동향 예의주시""
+-[연합뉴스] "여주 하천서 발견된 국제멸종위기종 1급 샴악어, 어디서 왔나"
 = 
-"https://www.news1.kr/politics/president/6234911"
-
--[연합뉴스] "[인사] 폴리뉴스"
-= 
-"https://www.yna.co.kr/view/AKR20260722026400505"
-
--[연합뉴스] "하나證 "대형마트, 새벽배송해도 성장 제한…의무휴업 손해 커""
-= 
-"https://www.yna.co.kr/view/AKR20260722026300008"
+"https://www.yna.co.kr/view/AKR20260722156700061"
